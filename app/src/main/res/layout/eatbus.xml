@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/foodmalam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Makan Malam"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="98dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/eatboss1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EatBus"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+    <TextView
+        android:id="@+id/daftarmenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="170dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <TextView
+        android:id="@+id/nasduk"
+        android:layout_width="182dp"
+        android:layout_height="30dp"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <TextView
+        android:id="@+id/porsi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Porsi"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="171dp"
+        tools:layout_editor_absoluteY="243dp" />
+
+    <TextView
+        android:id="@+id/porsi1"
+        android:layout_width="169dp"
+        android:layout_height="36dp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <TextView
+        android:id="@+id/harga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Harga"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="346dp" />
+
+    <TextView
+        android:id="@+id/harga1"
+        android:layout_width="159dp"
+        android:layout_height="32dp"
+        tools:layout_editor_absoluteX="113dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <RelativeLayout
+        android:layout_width="381dp"
+        android:layout_height="492dp"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="9dp">
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>
